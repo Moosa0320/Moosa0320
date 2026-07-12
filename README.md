@@ -1,8 +1,8 @@
 <div align="center">
 
-# Moosa
+# Moosa Shahid Raja
 
-### Software Engineer · AI & Cybersecurity
+### Software Engineer · AI · Cloud · Cyber Secuirty 
 
 Lahore, Pakistan
 
@@ -14,7 +14,7 @@ Lahore, Pakistan
 
 ## About
 
-BS Software Engineering student (AI & Cybersecurity track) at NASTP Institute of Information Technology, graduating 2028. I design and build systems at the intersection of applied AI and security — from ML-driven diagnostics to intrusion detection and IoT-based physical security.
+BS Software Engineering student at NASTP Institute of Information Technology, graduating 2028. I design and build systems at the intersection of applied AI and security from ML-driven diagnostics to intrusion detection and IoT-based physical security.
 
 Beyond engineering, I'm involved in technical and academic communities, including as Ambassador for the Centre of Excellence in Gaming & Animation (CEGA, Government of Pakistan).
 
