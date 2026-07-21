@@ -42,13 +42,13 @@ Beyond engineering, I'm involved in technical and academic communities, includin
 A cloud-native microservices platform for predictive infrastructure scaling, containerized with Docker and deployed across AWS/Azure/GCP with polyglot persistence and enterprise-grade RBAC.
 
 **AI-Based IoT Security System**
-An embedded security system integrating door-access sensing and buzzer-based intrusion alerting, driven by an AI decision layer for real-time threat response — bridging physical security hardware with intelligent software control.
+An embedded security system integrating door-access sensing and buzzer-based intrusion alerting, driven by an AI decision layer for real-time threat response bridging physical security hardware with intelligent software control.
 
 **Cancer Diagnosis System**
 A machine learning system for early-stage cancer diagnosis support, focused on translating clinical data into actionable, interpretable predictions.
 
 **Mini Intrusion Detection System (Java)**
-A lightweight, from-scratch intrusion detection system built in Java, implementing core detection logic without reliance on external security frameworks — built to understand IDS internals at a foundational level.
+A lightweight, from-scratch intrusion detection system built in Java, implementing core detection logic without reliance on external security frameworks built to understand IDS internals at a foundational level.
 
 ---
 
