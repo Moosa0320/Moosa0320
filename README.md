@@ -1,12 +1,11 @@
 <div align="center">
 
 <a href="https://moosashahidraja.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=600&lines=Moosa+Shahid+Raja;Software+Engineer+%7C+AI+%2B+Cybersecurity;BS+SE+%40+NASTP+NIIT+%C2%B7+Class+of+2028;Building+intrusion+detection+%26+IoT+security;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=600&lines=Moosa+Shahid+Raja;Software+Engineer+%7C+AI+%2B+Cybersecurity;BS+SE+%40+NIIT%C2%B7;Building+intrusion+detection+%26+IoT+security;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-10161d?style=flat-square&labelColor=0a0e13&color=4FD1C5" />
-  <img src="https://img.shields.io/badge/Student%20Council-President-10161d?style=flat-square&labelColor=0a0e13&color=e8a33d" />
   <img src="https://img.shields.io/badge/CEGA-Ambassador-10161d?style=flat-square&labelColor=0a0e13&color=4FD1C5" />
 </p>
 
