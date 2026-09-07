@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://moosashahidraja.tech">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=600&lines=Moosa+Shahid+Raja;Software+Engineer+%7C+AI+%2B+Cybersecurity;BS+SE+%40+NIIT%C2%B7;Building+intrusion+detection+%26+IoT+security;Open+to+internships+%26+freelance+work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=28&duration=3000&pause=800&color=4FD1C5&center=true&vCenter=true&width=600&lines=Moosa+Shahid+Raja;Software+Engineer+%7C+AI+%2B+Cybersecurity;BS+SE+%40+NIIT%C2%B7;Building+intrusion+detection+%26+IoT+security;Open+to+internships+%26+freelance+projects" alt="Typing SVG" />
 </a>
 
 <p>
